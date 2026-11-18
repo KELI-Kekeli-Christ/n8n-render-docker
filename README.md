@@ -1,3 +1,11 @@
+<p align="center">
+  <a href="README.md"><b>English</b></a>
+  &nbsp;·&nbsp;
+  <a href="README.fr.md">Français</a>
+  &nbsp;·&nbsp;
+  <a href="README.es.md">Español</a>
+</p>
+
 # n8n-render (easy mode)
 
 [![Deploy to Render](https://render.com/images/deploy-to-render-button.svg)](https://render.com/deploy)
